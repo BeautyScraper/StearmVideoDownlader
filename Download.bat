@@ -1,0 +1,2 @@
+python "D:\Developed\Automation\python\extractMatchingLines.py" D:\Developed\Automation\inHaste\quicKlip.txt "mrdeepfakes.com" >>"links.opml"
+"C:\Users\HP\Miniconda3\scripts\activate.bat" && conda activate "streamV" && python mrDeepFakeDoownloader.py

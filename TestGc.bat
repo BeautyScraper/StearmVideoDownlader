@@ -1,1 +1,0 @@
-"C:\Users\HP\Miniconda3\scripts\activate.bat" && conda activate "streamV" && python mrDeepFakeDoownloader.py
